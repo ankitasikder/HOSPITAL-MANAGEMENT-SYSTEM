@@ -69,8 +69,6 @@ I have made this project using C language and file handling using C.
 <a href="pics/h3.png"><img src="pics/h3.png" width="800" height= "400"></a> 
      
 <a href="pics/h4.png"><img src="pics/h4.png" width="800" height= "400"></a>
-
-<a href="pics/h5.png"><img src="pics/h5.png" width="800" height= "400"></a> 
      
 <a href="pics/h6.png"><img src="pics/h6.png" width="800" height= "400"></a>
 
@@ -93,14 +91,10 @@ I have made this project using C language and file handling using C.
 <a href="pics/h15.png"><img src="pics/h15.png" width="800" height= "400"></a> 
      
 <a href="pics/h16.png"><img src="pics/h16.png" width="800" height= "400"></a>
-
-<a href="pics/h17.png"><img src="pics/h17.png" width="800" height= "400"></a> 
      
 <a href="pics/h18.png"><img src="pics/h18.png" width="800" height= "400"></a>
 
-<a href="pics/h19.png"><img src="pics/h19.png" width="800" height= "400"></a> 
-     
-<a href="pics/h20.png"><img src="pics/h20.png" width="800" height= "400"></a>
+
 
 </div>
 
