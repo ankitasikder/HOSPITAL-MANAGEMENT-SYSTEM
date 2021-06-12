@@ -18,7 +18,8 @@
 ## About :point_down:
 
 <div align="justified">
-     
+ 
+This is s hospital management system of Remedy Plus Care(for example). This is a realistic and usable management system with security. Here only the manager can access this system with proper password. Opening the system it first asks password. Here we have used 'UEMK' as password. In the main page there are 7 total options. By choosing option 1 we can add new patient record. Here we can enter
 
 </div>
 
