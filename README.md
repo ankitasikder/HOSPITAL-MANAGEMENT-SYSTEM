@@ -3,7 +3,7 @@
 
 <br>
 
-***This 'Hospital Management System' using JDBC is created by Ankita Sikder and Biswarup Bhattacharjee, students of BTECH, in University of Engineering and Management, Kolkata.***
+***This 'Hospital Management System' using C is created by Ankita Sikder and Biswarup Bhattacharjee, students of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
