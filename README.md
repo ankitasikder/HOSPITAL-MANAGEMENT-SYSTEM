@@ -9,39 +9,18 @@
 **Contact No: 8583939774.** 
 
 <p align="left">
-<a href="https://facebook.com/biswarup.bhattacharjee.5811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
-<a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/biswa2210/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## About :point_down:
 
 <div align="justified">
  
-This is s hospital management system of Remedy Plus Care(for example). This is a realistic and usable management system with security. Here only the manager can access this system with proper password. Opening the system it first asks password. Here we have used 'UEMK' as password. In the main page there are 7 total options. By choosing option 1 we can add new patient record. By using Add diagnostic report of patient
+This is s hospital management system of Remedy Plus Care(for example). This is a realistic and usable management system with security. Here only the manager can access this system with proper password. Opening the system it first asks password. Here we have used 'UEMK' as password. In the main page there are 7 total options. By choosing option 1 we can add new patient record. By using Add diagnostic report of patient we can add reports of patients. By choosing option 3 we can see full history of patient. In option 4 all patients' list is shown. By choosing option 5we can see total history of Remedy Plus Care(for example). By choosing option 6 we can exit program. In option 7 we can see credits.
 
 </div>
-
-## Purpose :point_down:
-
-<div align="justified">
-     
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
-     
-
-</div>
-
-## Applications :point_down:
-
-<div align="justified">
-     
-
-</div>                 
 
 ## Making :point_down:
 
