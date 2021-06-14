@@ -1,7 +1,6 @@
 # HOSPITAL-MANAGEMENT-SYSTEM :star_struck: :boy: :girl: :notebook: :open_file_folder: :computer:
  
 
-<br>
 
 ***This 'Hospital Management System' using C is created by Ankita Sikder and Biswarup Bhattacharjee, students of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -42,15 +41,7 @@ This is s hospital management system of Remedy Plus Care(for example). This is a
 <div align="justified">
      
 
-</div>
-
-
-## Folder Structure :point_down:
-
-```bash
-HOSPITAL-MANAGEMENT-SYSTEM
-     └── my hospital.c
-```                       
+</div>                 
 
 ## Making :point_down:
 
