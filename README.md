@@ -1,6 +1,6 @@
 # HOSPITAL-MANAGEMENT-SYSTEM :star_struck: :boy: :girl: :notebook: :open_file_folder: :computer:
  
-
+[![Generic badge](https://img.shields.io/badge/C-programming-red)](https://shields.io/) 
 
 ***This 'Hospital Management System' using C is created by Ankita Sikder and Biswarup Bhattacharjee, students of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -18,7 +18,7 @@
 
 <div align="justified">
  
-This is s hospital management system of Remedy Plus Care(for example). This is a realistic and usable management system with security. Here only the manager can access this system with proper password. Opening the system it first asks password. Here we have used 'UEMK' as password. In the main page there are 7 total options. By choosing option 1 we can add new patient record. Here we can enter
+This is s hospital management system of Remedy Plus Care(for example). This is a realistic and usable management system with security. Here only the manager can access this system with proper password. Opening the system it first asks password. Here we have used 'UEMK' as password. In the main page there are 7 total options. By choosing option 1 we can add new patient record. By using Add diagnostic report of patient
 
 </div>
 
